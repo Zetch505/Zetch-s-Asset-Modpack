@@ -1,4 +1,4 @@
-# Zetch-s-Asset-Modpack
+# Zetch's Shop Framework
 A Pavlov Modpack To Make Your Own Custom Shops
 
 Contents:
