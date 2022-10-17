@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="cb_Mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/CustomMaps/UGC2848649147/Custom_assets/cb.cb"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=34976D6440DB849F0DD747B56FC4D0FF
+      Material=Material'"cb_Mat"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=9AC18858411F4C2B9277EC80117B841A
+   ReferencedTextureGuids(0)=7D1D8D974D348DE98CA8029EED1EE429
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=8F5411E44ECFFA66D41441A67A0B8634
+End Object

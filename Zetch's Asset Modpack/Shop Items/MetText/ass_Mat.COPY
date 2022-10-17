@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="ass_Mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/CustomMaps/UGC2848649147/Custom_assets/ass.ass"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=B571FD79470ABF10A8721AA076DF525D
+      Material=Material'"ass_Mat"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=0221A9714B0D194C703CA8AF91A94DF7
+   ReferencedTextureGuids(0)=8C6C364E4E3870CC8F085A8E43FB009F
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=388A2D33402850ACDAFE34A9BEE14EF1
+End Object

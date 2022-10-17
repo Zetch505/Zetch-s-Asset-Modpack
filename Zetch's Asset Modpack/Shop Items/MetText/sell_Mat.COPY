@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="sell_Mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/CustomMaps/UGC2848649147/Custom_assets/Assets/shop_stuff/sell.sell"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=268109A44FCC9CD5FA63D39F6DE8EC84
+      Material=Material'"sell_Mat"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=10558C0048DFF20B4ADF468A29D0DF31
+   ReferencedTextureGuids(0)=3FCE85F34D071AE42E1C738DF4431D4B
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=CF6B15374D67F99D4A54EB99FCEBA7C4
+End Object

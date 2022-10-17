@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="buy_Mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/CustomMaps/UGC2848649147/Custom_assets/Assets/shop_stuff/buy.buy"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=EFEF17C3481DE92B8C755E8BD5A822F3
+      Material=Material'"buy_Mat"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=314BCC084871AD9427E64FAC8A7B7F97
+   ReferencedTextureGuids(0)=9FE6D6E34B1AD75DABEC3D91C09AB175
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=A337AF9C41870AD1F283C6849FDC8965
+End Object

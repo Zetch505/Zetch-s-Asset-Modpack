@@ -1,0 +1,32 @@
+Begin Object Class=/Script/Engine.Material Name="Money1k_Mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-168
+      MaterialExpressionEditorY=270
+      MaterialExpressionGuid=4D336152481238FB06E1059078BF0378
+      Material=Material'"Money1k_Mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/CustomMaps/UGC2848649147/Custom_assets/Assets/shop_stuff/Money1k.Money1k"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=BF04E9E341B2B5C147D090A63751A1BC
+      Material=Material'"Money1k_Mat"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_0"')
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=188050EB4E1020927C124CBE740BE3D2
+   ReferencedTextureGuids(0)=D91F52F347272405CE2A8E9DB1112237
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B5C0BFE64106F3FFE5CA5E86519F755A
+End Object
