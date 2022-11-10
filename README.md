@@ -12,4 +12,7 @@ Contents:
 - Custom Slot Machine BP
 
 
-Instalation: Extract the .zip file directly into your content folder within your PC's file browser
+Instalation: 
+1. Extract the .zip file to Unreal Projects folder.
+2. Extract Second .zip file.
+3. 
