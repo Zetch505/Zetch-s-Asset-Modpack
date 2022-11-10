@@ -10,6 +10,7 @@ Contents:
 - Locked Door Blueprint (Choose Item Needed To Unlock)
 - Custom Link Box (Opens URL From In Game) (Used For Discord Links & Such)
 - Custom Slot Machine BP
+- Exaple Map (Will Be Updated With More Specific Information In The Future)
 
 
 Instalation:(Download Zip)
