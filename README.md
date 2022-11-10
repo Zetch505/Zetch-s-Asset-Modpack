@@ -12,7 +12,7 @@ Contents:
 - Custom Slot Machine BP
 
 
-Instalation: 
+Instalation:(Download Zip)
 1. Extract the .zip file to Unreal Projects folder.
 2. Extract Second .zip file.
 3. Open "Zetch's Shop Framework" UE4 Project.
