@@ -15,4 +15,9 @@ Contents:
 Instalation: 
 1. Extract the .zip file to Unreal Projects folder.
 2. Extract Second .zip file.
-3. 
+3. Open "Zetch's Shop Framework" UE4 Project.
+4. Rename UGC to that of your current project.
+5. Right click "Zetch's Shop Framework" Folder.
+6. Click Migrate
+7. Select your projects content folder
+8. Open your project and all of the files should be there to use.
